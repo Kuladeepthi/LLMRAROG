@@ -7,6 +7,14 @@
 - KULA DEEPTHI - 23BDS013
 
 ------------------------------------------
+HOW TO OPEN APP
+1. CLICK ON THIS LIKN : https://colab.research.google.com/drive/1SxraVT3RMUA6WOrW6hUCwexkLpsdw9oa#scrollTo=sUdb2Lh0gGAM
+2. AT THE END RERUN THE : !streamlit run app.py & npx localtunnel --port 8501
+3. CLICK ON THE TUNNEL LINK AND GIVE TUNNEL PASSWORD
+4. FOR TUNNEL PASSWORD RUN THIS : !wget -q -O - ipv4.icanhazip.com
+5. COPY PASTE PASSWORD AND THE APP WILL RUN 
+
+-------------------------------------------
 #  AI Research Assistants
 
 This repository contains the code and resources for the project that evaluates AI research assistants leveraging large language models (LLMs). The project compares Retrieval-Augmented Generation (RAG)-enhanced systems with pure LLM approaches across several key performance metrics, such as information retrieval accuracy, response speed, and computational resource usage.
